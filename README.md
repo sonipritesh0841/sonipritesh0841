@@ -1,12 +1,12 @@
 <p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="gif"></p>
 
-# <h1 align="center">👋 Hello World!, I'm Ovilash! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# <h1 align="center">👋 Hello World!, I'm Pritesh Sonii! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## About Me
 
 - 🌊 Based in India.
 - 🌱 Actively advancing my career in Building Innovative Web Solutions.
-- 💬 Feel free to ask me about Web Development and Life.
+- 💬 Feel free to ask me about Frontend Development and Life.
 - 📫 Reach out to me at [priteshsoni0841@gmail.com](mailto:priteshsoni0841@gmail.com).
 - 📫 Connect with me:
   - 📧 [Email](mailto:priteshsoni0841@gmail.com)
@@ -54,7 +54,7 @@ Currently, I work as a frontend developer with my team at Arka Infotech. Collabo
 <!-- activity graph heroku-app start -->
 <div align="center">
     <a href="https://github.com/sonipritesh0841 ">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonipritesh0841 &theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonipritesh0841&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
 <!-- activity graph heroku-app end -->
