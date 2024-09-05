@@ -60,13 +60,13 @@ Currently, I work as a frontend developer with my team at Arka Infotech. Collabo
 <!-- activity graph heroku-app end -->
 
 <div align="center">
-<a href="https://github.com/sonipritesh0841 ?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=sonipritesh0841 &theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/sonipritesh0841 ?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sonipritesh0841 &theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+<a href="https://github.com/sonipritesh0841 ?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=sonipritesh0841&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/sonipritesh0841?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sonipritesh0841 &theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonipritesh0841 &theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact"  width="36%" alt="@Goblin's github-readme-streak-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonipritesh0841&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact"  width="36%" alt="@Goblin's github-readme-streak-stats"/>
 </div>
 
 <div align="center">
@@ -81,4 +81,4 @@ Currently, I work as a frontend developer with my team at Arka Infotech. Collabo
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sonipritesh0841 &icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sonipritesh0841&icon=2&color=0)](https://visitcount.itsvg.in)
